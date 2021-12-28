@@ -1,5 +1,4 @@
-# React-Redux-SAGA-tutorial-APP
-Simple React-Redux-Saga App  developed for the [tutorial article](https://medium.com/@lavitr01051977/make-your-first-call-to-api-using-redux-saga-15aa995df5b6)
+# react-redux-saga-simple
 
 [Online DEMO](http://sagatutorialapp.bitballoon.com/)
 
@@ -7,8 +6,8 @@ Simple React-Redux-Saga App  developed for the [tutorial article](https://medium
 ### Usage
 
 ```
-git clone https://github.com/Lavitr/React-Redux-SAGA-tutorial-APP.git
-cd React-Redux-SAGA-tutorial-APP
+git clone https://github.com/wg-d/react-redux-saga-simple.git
+cd react-redux-saga-simple
 npm install
 npm start
 open http://localhost:8080  (should start automatically )
